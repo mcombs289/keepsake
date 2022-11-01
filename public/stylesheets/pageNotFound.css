@@ -1,0 +1,11 @@
+.pageNotFoundContainer{ 
+    margin-top: 30px;
+   color: #e02c2d;
+   font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.pageNotFoundContainer img{
+ 
+    height: 800px;
+ }

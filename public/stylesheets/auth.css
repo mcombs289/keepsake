@@ -1,0 +1,49 @@
+.form-body{
+
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.side-design{ 
+  background-color: white;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+align-items: center;
+text-align: center;
+}
+
+  .form-body input{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 25px;
+    height: 50px;
+    width: 15rem;
+    padding-left: 15px;
+  }
+
+
+
+.form-body button{
+  margin-right: 2rem;
+  background-color: #023E8A;
+  color: white;
+  font-weight: 800;
+  border-radius: 0px;
+  border: none;
+  width: 150px;
+  height: 55px;
+}
+  
+#second-button{
+  margin-left: 2rem;
+  background-color: #dcdf00;
+  border: none;
+  color: #023E8A;
+  font-weight: 600;
+  border-radius: 0px;
+  width: 100px;
+  height: 30px;
+}

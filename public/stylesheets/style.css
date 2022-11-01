@@ -1,0 +1,74 @@
+body {
+  font-family: 'Yeseva One', sans-serif;
+
+  color:   #03045e;
+}
+
+/* a {
+  text-decoration: none;
+} */
+
+label {
+  display: block;
+}
+
+nav a {
+  display: inline-block;
+  margin: 1em;
+}
+
+img {
+  border-radius: 1rem;
+  border: none;
+}
+
+form div {
+  margin: 1em;
+  display: inline-block;
+}
+
+/* This has to do with pagination */
+.all-movies{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 2rem;
+  justify-content: center;
+}
+
+select{
+  display: block;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 16px;
+  padding: 11px 15px;
+  width: 100%;
+  background-color: white ;
+  font-weight: 600;
+  border: 3px solid #023E8A;; 
+  color: #023E8A ;
+  width: 61%;
+}
+
+select:hover{
+  border: 3px solid #0077B6;; 
+  color: #0077B6 ;
+
+
+}
+
+.sticky{ 
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+button{
+  
+  background-color: #dcdf00;
+  border: none;
+  color: #023E8A;
+  font-weight: 600;
+  border-radius: 0px;
+
+}

@@ -1,0 +1,81 @@
+.search-results {
+    text-align: left;
+}
+
+.add-button-button {
+    background-color: #023E8A;
+    color: white;
+    font-weight: 800;
+    border-radius: 0px;
+    border: none;
+    height: 55px;
+
+}
+
+.search-results .card-img {
+    border-radius: 15px;
+    height: 300px;
+    width: 250px;
+}
+
+
+.search-results .btn{
+    background-color: #0077b6;
+    color:black;
+    align-items: center;
+    padding: 1rem;
+    align-content: center;
+}
+
+.add-button {
+    margin: 50px;
+    height: 120px;
+    text-align: right;
+}
+
+.toggle-users {
+    text-align: right;
+    margin-right: 10%;
+}
+
+
+.search-for-user-card{
+    margin: 2rem;
+    background-color: #023E8A;
+    height: 350px;
+    width: 240px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.search-for-user-card img{
+    height: 100px;
+    width: 100px;
+     display: inline;
+    border-radius: 100%;
+}
+
+.search-results .tvs {
+    margin: 50px;
+    padding: 10px;
+    margin-bottom: -2%;
+    margin-top: -1%;
+    margin-right: 15%;
+    margin-left: 15%;
+
+}
+
+.search-results .movies {
+    margin: 50px;
+    padding: 10px;
+    margin-bottom: -2%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.search-results .books {
+    margin: 50px;
+    margin-right: 15%;
+    margin-left: 15%;
+}

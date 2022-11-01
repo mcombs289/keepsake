@@ -1,0 +1,43 @@
+.navbar {
+    background-color: white;
+
+
+}
+
+.navbar-icons{ 
+    display: flex;
+    flex-direction: row;
+  justify-content: flex-end;
+  padding-top: 1rem;
+}
+
+.search-bar{
+
+    width: 100%;
+    height: 80%;
+    padding: 12px 24px;
+    background-color: transparent;
+    border-radius: 50px;  
+    font-size: 14px;
+    line-height: 18px;
+    color: #03045E;
+    border: 2px solid #03045E;
+}
+
+.search-tabs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.search-tabs-buttons{
+    padding: 2px;
+    display: inline;
+    color: #03045E;
+    font-weight: 600;
+}
+
+.search-tabs-buttons > .active{
+   background-color: yellow;
+}

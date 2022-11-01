@@ -1,0 +1,14 @@
+ .hide-button{
+    display: none;
+    
+}
+
+
+  .wrapper:hover .card-img {
+    /* Change the filter in here */
+  }
+
+ 
+  .wrapper:hover .hide-button {
+    display: inline-block;
+  }

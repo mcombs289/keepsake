@@ -1,0 +1,89 @@
+.edit-profile{ 
+    margin-top:20px;
+    padding: 2rem;  
+    background-color: #dcdf00;  
+    height: 1200px;
+}
+
+.profile-row{
+ text-align: center;
+
+}
+
+.edit-form {
+    margin: 1rem;
+    width: 100%
+}
+
+
+.edit-profile h1{ 
+ padding: 1rem;
+text-align: center;
+
+}
+.input-row{
+    text-align: left;
+}
+
+.edit-image{
+    padding: 2rem;
+}
+
+.edit-image h6{
+    margin-top: 1rem;
+}
+.form-labels {
+    margin: 1rem;
+}
+
+.bio-row{
+    text-align: left;
+}
+
+.form-inputs {
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 25px;
+    height: 50px;
+    width: 15rem;
+    padding-left: 15px;
+    text-align: left;
+  }
+
+.bio-text {
+    width: 110%;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 10px;
+    background-color: white;
+    justify-content: left;
+}
+
+.submit-button {
+    margin-right: 2rem;
+  background-color: #023E8A;
+  color: white;
+  font-weight: 800;
+  border-radius: 0px;
+  border: none;
+  width: 150px;
+  height: 55px;
+
+    
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    margin-right: 1rem;
+    
+}
+
+.avatar{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    left: 2px;
+    border: solid 1px black;
+    }		
+    

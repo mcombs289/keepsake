@@ -1,0 +1,59 @@
+.activity-log{
+ padding-top: 3rem;
+  text-align: center;
+}
+
+.activity-log-card{  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.post-user-image{
+  width: 70px;  
+  height: 70px;
+  margin-top: 1rem;
+  border-radius: 100%;
+}
+
+.post-info{ 
+  padding: 1rem;
+}
+
+.post-title{
+
+    margin-top: 2rem;
+   margin-left: 5px;;
+    padding: 3px;
+    width: 100%;
+    text-align: left;
+}
+
+.activity-card-img {
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    border: none;
+    height: 320px
+  }
+
+  .text-left{
+    text-align: left;
+  }
+  .card-col{
+    box-shadow:
+    0 2.8px 2.2px rgba(3, 4, 94, 0.04),
+    0 6.7px 5.3px rgba(3,4,94, 0.048),
+    0 12.5px 10px rgba(3,4,94, 0.06),
+    0 22.3px 17.9px rgba(3,4,94, 0.052),
+    0 41.8px 33.4px rgba(3,4,94, 0.016),
+    0 10px 80px rgba(3,4,94, 0.12);
+  }
+
+  .innerdiv {
+    padding-right: 3rem;
+    margin-bottom: 2rem;
+    text-align: right;
+
+    }
